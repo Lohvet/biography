@@ -1,0 +1,21 @@
+body{
+    background-color:  #334d00;
+    color: ghostwhite;
+    font-family: 'Pacifico', cursive;
+}
+p{
+    display: none;
+    padding: 1em;
+    margin-top: 10px;
+    color: black;
+    background-color: white; 
+    border-radius: 10px;
+    outline: none;
+}
+.form-group{
+    margin: 15px 0 15px 0;
+}
+button{
+    width: 20%;
+    margin-top: 5px;
+}
